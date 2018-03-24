@@ -9,7 +9,7 @@ See report for more details.
 1. compile the project with:
  ```make```
  
-2. run the code for greedy hill climbing, where:
-```./greedy seed number_of_dimensions number_of_gaussian_function_centers``<br>
+2. run the code for greedy hill climbing, where:<br>
+```./greedy seed number_of_dimensions number_of_gaussian_function_centers```<br>
 or for simulated annealing:<br>
-```./sa seed number_of_dimensions number_of_gaussian_function_centers 
+```./sa seed number_of_dimensions number_of_gaussian_function_centers```
